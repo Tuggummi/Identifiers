@@ -15,7 +15,7 @@ If you experience problems, please make a GitHub issue or contact me via Discord
 Tuggummi#7842
 
 ## Installation Process
-**[EN]**
+###### EN
 1. Download the script from the GitHub, rename it to "Identifiers" and put it where you'd like. (Somewhere in the resource folder!)
 2. Make sure you have a HeidiSQL Database set up, it's working and accessble.
 3. Run the SQL file, and it should create one Table named "identifiers". DO NOT CHANGE ANYTHING!
