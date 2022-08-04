@@ -21,7 +21,7 @@ Tuggummi#7842
 3. Run the SQL file, and it should create one Table named "identifiers". DO NOT CHANGE ANYTHING!
 4. Open the config, add the WEBHOOKS and configure when it should send the Message to discord. 
 5. Make sure you've started the resource in the server.cfg and start the server! 
-**[SE]**
+###### SE
 1. Ladda ner scriptet från GitHub, se till att namnet är "Identifiers" och lägg det någonstans i Resource mappen.
 2. Se till att du har en HeidiSQL Databas som fungerar och åtkomlig.
 3. Kör SQL filen, det borde skapas en tabell med namnet "identifiers". RÖR INGET!
